@@ -1,9 +1,6 @@
 <h1 align="center">
-  <a href="https://newyear-postcard.netlify.app" aria-hidden="true"><img src="https://raw.githubusercontent.com/DiegoPerozo/newyear-postcard/master/img/thumbail.jpg" alt="PostCard" width="400" /></a>
+  <a href="https://newyear-postcard.netlify.app" aria-hidden="true"><img src="https://raw.githubusercontent.com/DiegoPerozo/newyear-postcard/master/img/thumbail.jpg" alt="PostCard" width="1200" /></a>
 </h1>
-<div align="center">
-    [![Netlify Status](https://api.netlify.com/api/v1/badges/728e98a5-5c59-41a8-916b-3697fc54378d/deploy-status)](https://app.netlify.com/sites/newyear-postcard/deploys)
-</div>
 
 Una postal para año nuevo que cree hace tiempo.
 
@@ -21,6 +18,7 @@ Una postal para año nuevo que cree hace tiempo.
 
 - Visual Studio Code
 - Netlify
+[![Netlify Status](https://api.netlify.com/api/v1/badges/728e98a5-5c59-41a8-916b-3697fc54378d/deploy-status)](https://app.netlify.com/sites/newyear-postcard/deploys)
 
 <h2><a id="licencia" href="#licencia" aria-hidden="true">#</a> License</h2>
 
