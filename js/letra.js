@@ -8,7 +8,7 @@ function Letra(letra ,x ,y , colour){
 
     this.update = function(){
         if(this.alpha < 200)
-            this.alpha +=20;
+            this.alpha +=50;
     }
 
     this.show = function(){
